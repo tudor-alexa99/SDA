@@ -1,0 +1,3 @@
+﻿  ExtendedTest.cpp
+c:\users\lenovo\source\repos\sda_lab6_v1\sda_lab6_v1\bag.h(14): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+  SDA_lab6_v1.vcxproj -> C:\Users\Lenovo\source\repos\SDA_lab6_v1\Debug\SDA_lab6_v1.exe
